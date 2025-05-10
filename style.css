@@ -1,0 +1,19 @@
+.info-box {
+    min-height: 120px;
+  }
+  .info-box-icon {
+    height: 120px;
+    line-height: 120px;
+  }
+  .info-box-content {
+    padding-top: 20px;
+  }
+  .topbar-user {
+    display: flex;
+    align-items: center;
+  }
+  .topbar-user i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+  }
+  
